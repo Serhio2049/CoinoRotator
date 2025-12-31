@@ -26,3 +26,21 @@ The script utilizes a `DispatchSourceTimer` to execute the following logic every
 2. Open **Terminal** and navigate to the directory:
    ```bash
    cd ~/Desktop
+
+   Execute the script:
+   swift CoinoRotator.swift
+
+🛠 Configuration
+The following parameters are hardcoded in the script for ease of use:
+RPC URL: http://127.0.0.1:29299
+User: USER
+Pass: qqqqqqq
+Amount: 1.0 CNO per transaction.
+Interval: 60 seconds
+
+⚠️ Security Notice
+This script contains hardcoded RPC credentials. Do not share this file publicly if you are using sensitive passwords or connecting to a mainnet node with significant funds. It is recommended to use environment variables for passwords in production environments.
+
+📄 License
+This project is open-source and available for modification.
+
