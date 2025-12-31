@@ -27,7 +27,6 @@ The script utilizes a `DispatchSourceTimer` to execute the following logic every
    ```bash
    cd ~/Desktop
 
-   Execute the script:
    swift CoinoRotator.swift
 
 🛠 Configuration
