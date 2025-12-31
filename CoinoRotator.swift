@@ -1,8 +1,8 @@
 import Foundation
 
 // Твои данные из coino.conf
-let RPC_USER     = "Serhii18"
-let RPC_PASSWORD = "wY6MMJfdkicqPEV"
+let RPC_USER     = "user1"
+let RPC_PASSWORD = "wY6MMqqqqqq"
 
 let RPC_URL = "http://127.0.0.1:29299"
 let AMOUNT  = 1.0
