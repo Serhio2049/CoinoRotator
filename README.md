@@ -40,7 +40,9 @@ Amount: 1.0 CNO per transaction.
 Interval: 60 seconds
 
 ⚠️ Security Notice
-This script contains hardcoded RPC credentials. Do not share this file publicly if you are using sensitive passwords or connecting to a mainnet node with significant funds. It is recommended to use environment variables for passwords in production environments.
+This script contains hardcoded RPC credentials. 
+Do not share this file publicly if you are using sensitive passwords or connecting to a mainnet node with significant funds. 
+It is recommended to use environment variables for passwords in production environments.
 
 📄 License
 This project is open-source and available for modification.
