@@ -23,11 +23,12 @@ The script utilizes a `DispatchSourceTimer` to execute the following logic every
 
 ### 2. Run the Script
 1. Clone or download `CoinoRotator.swift` to your Desktop.
-2. Open **Terminal** and navigate to the directory:
+2. Open **Terminal** and navigate to the directory. Execute the script: :
    ```bash
+
    cd ~/Desktop
 
-   swift CoinoRotator.swift
+             swift CoinoRotator.swift
 
 🛠 Configuration
 The following parameters are hardcoded in the script for ease of use:
