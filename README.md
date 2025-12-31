@@ -31,7 +31,9 @@ The script utilizes a `DispatchSourceTimer` to execute the following logic every
              swift CoinoRotator.swift
 
 
+
 🛠 Configuration
+
 The following parameters are hardcoded in the script for ease of use:
 RPC URL: http://127.0.0.1:29299
 User: USER
